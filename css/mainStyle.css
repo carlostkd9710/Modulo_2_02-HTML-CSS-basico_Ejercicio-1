@@ -1,0 +1,29 @@
+body{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: burlywood;
+}
+
+h1{
+    text-align: center;
+}
+
+ul{
+    list-style: none;
+    text-align: center;
+}
+a:hover{
+    color:white;
+    background-color: crimson;
+}
+table{
+    width: 100%;
+    border: 1px solid ;
+}
+td, th {
+    text-align: center;
+    border: 1px solid ;
+
+}
+th{
+    background-color: darkgrey;
+}
